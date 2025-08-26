@@ -18,5 +18,5 @@ Maybe I could expand it afterwards into an app that people can use but otherwise
 I need to define my schedule is all
 
 
-Could I add something that predicts my behaviour even if I fall off? I'm toying with the idea
+Could I add something that predicts my behaviour even if I fall off? A nice idea
 
